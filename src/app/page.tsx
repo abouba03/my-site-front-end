@@ -6,8 +6,8 @@ export default function Home() {
   return (
   <>
     <Seo title="My web site" description="desc..."/>
-    <div>
-      <p className="mt-5">jhecjwjhnec</p>
+    <div className="bg-red-500">
+      <p className="mt-5 bg-red-500">jhecjwjhnec</p>
     </div>
     <Typography variant="display" component="h1">   
       Abouba
